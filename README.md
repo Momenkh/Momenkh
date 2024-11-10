@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 Momen is here</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momenkh&label=Profile%20views&color=0e75b6&style=flat" alt="momenkh" /> </p>
 
-- 🌱 I’m currently learning **Node.JS, Angular, MVC.NET Core and MongoDB**
+- 🌱  **Exponentially** learning my way up the graph
 
 - 📫 How to reach me **momenkhamis@hotmail.com**
 
