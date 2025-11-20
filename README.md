@@ -1,81 +1,83 @@
-<h1 align="center">Hey 👋 Momen is here</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momenkh&label=Profile%20views&color=0e75b6&style=flat" alt="momenkh" /> </p>
+<h1 align="center">Hey 👋, Momen Khamis is here</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=momenkh&label=Profile%20views&color=0e75b6&style=flat" alt="momenkh" />
+</p>
 
-- 🌱  **Exponentially** learning my way up the graph
+## About Me
+I'm a **Full Stack Developer** with 2+ years of experience, specializing in Back-End development. I enjoy building scalable, efficient, and maintainable server-side solutions, designing clean architectures, and applying SOLID principles and design patterns. I'm also familiar with Front-End technologies and committed to writing clean code.
 
-- 📫 How to reach me **momenkhamis@hotmail.com**
+- 📍 New Cairo, Cairo, Egypt  
+- 📧 momenkhamis@hotmail.com  
+- 🌐 [LinkedIn](#) | [GitHub](https://github.com/momenkh)  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## Work Experience
+
+### Software Engineer — Vodafone  
+*Mar 2024 - Present*  
+**Technologies:** Java Spring Boot, Java SE, React, Linux, Git, Oracle Databases, Microservices, FSM, Loyalty  
+- Designed and developed scalable microservices for the loyalty platform, boosting engagement and retention.  
+- Revamped logging architecture and core business flows to improve reliability and maintainability.  
+- Collaborated with cross-functional teams to deliver high-quality features aligned with business objectives.
+
+### Software Engineer — Integrated Solutions for Ports  
+*Aug 2023 - Mar 2024*  
+**Technologies:** Java EE, JSF, PrimeFaces, SVN, Oracle Databases, JavaScript  
+- Maintained large-scale web applications supporting Suez Canal and Egyptian ports operations.  
+- Enhanced system performance, automating key workflows and reducing manual effort by 60%.  
+- Optimized data processing to improve overall performance by ~30%.
+
+---
+
+## Education
+
+- **Professional Web Development & BI Diploma** — Information Technology Institute (ITI)  
+  *Oct 2022 - Jul 2023* | Final Project: EgypTourism Website  
+
+- **B.Sc. in Software Industry & Multimedia (CS SSP)** — Faculty of Science, Alexandria University  
+  *Sep 2018 - Jul 2022* | Final Project: PetHub Mobile Application  
+
+---
+
+## Skills
+
+**Front-End:** React, HTML5, CSS3, XHTML, Bootstrap, jQuery, PrimeFaces  
+**Back-End:** Java EE, Spring, ASP.NET Web APIs, NestJS  
+**Languages:** Java, C#, C++, JavaScript, TypeScript  
+**Database:** Oracle SQL, MySQL, Hibernate, JPA, Entity Framework, TypeORM  
+**Tools & Other Skills:** Microservices, JWT, KeyCloak, ArtemisMQ, ELK Stack, Linux, Design Patterns, Finite State Machines, Cloud Computing basics, Problem Solving, Operations  
+
+---
+
+## Internships & Certifications
+
+- Fundamentals of Backend Engineering — Hussein Nasser (Dec 2024 - Apr 2025)  
+- Fundamentals of Database Engineering — Hussein Nasser (Dec 2024 - Mar 2025)  
+- Udacity Front-End Web Development (Aug 2022 - Sep 2022)  
+- Introduction to Machine Learning — ITI (Jan 2022 - Feb 2022)  
+- Front-End Internship — Ibtikar Technology (Aug 2021 - Sep 2021)  
+
+---
+
+## Connect with Me
 <p align="left">
+  <a href="https://www.linkedin.com/in/momenkh/" target="_blank">LinkedIn</a> |
+  <a href="https://github.com/momenkh" target="_blank">GitHub</a> |
+  <a href="mailto:momenkhamis@hotmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## Languages & Tools
+
 <p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/java/technologies/java-ee.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Java_Logo.svg" alt="java-ee" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Spring_Framework_Logo_2018.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Oracle_logo.svg" alt="oracle-sql" width="40" height="40"/>
-  </a>
+  <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>   
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.oracle.com/database/" target="_blank"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/spring.svg" alt="spring" width="40" height="40"/> </a>
 </p>
-
