@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Momen Khamis is here</h1>
+<h1 align="center">Momen Khamis is here</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=momenkh&label=Profile%20views&color=0e75b6&style=flat" alt="momenkh" />
 </p>
